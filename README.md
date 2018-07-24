@@ -1,5 +1,5 @@
 # hello-world
 
-## Hey
+## These are comedians
 
-This is a test
+Just a test class to spit out the names and ages of some famous comedians.
